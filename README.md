@@ -14,7 +14,7 @@ This hype project bridges my interests in data science, machine learning, and sn
 
 ### Goals
 
-* Connect my scraper utility to access Reddit via their public API, 'praw'
+* Connect my scraper utility to access Reddit via their public API, `praw`
 * Collect raw data from my most frequented subreddit ("reddit.com/r/sneakers")
 * Train a multi-class, convolutional neural network with existing, labeled data, that I either label myself or get from an existing repository
 * Feed the scraped, reddit data into the CNN to get "Nike", "Adidas", "New_Balance", etc. to generate further labeled data that can then be used for analysis
